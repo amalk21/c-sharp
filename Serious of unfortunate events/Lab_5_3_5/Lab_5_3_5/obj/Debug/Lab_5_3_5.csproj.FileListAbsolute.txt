@@ -1,0 +1,6 @@
+E:\Sem_5\C# and .NET Framework\Lab\Lab-5\3\Lab_5_3_5\Lab_5_3_5\bin\Debug\Lab_5_3_5.exe.config
+E:\Sem_5\C# and .NET Framework\Lab\Lab-5\3\Lab_5_3_5\Lab_5_3_5\bin\Debug\Lab_5_3_5.exe
+E:\Sem_5\C# and .NET Framework\Lab\Lab-5\3\Lab_5_3_5\Lab_5_3_5\bin\Debug\Lab_5_3_5.pdb
+E:\Sem_5\C# and .NET Framework\Lab\Lab-5\3\Lab_5_3_5\Lab_5_3_5\obj\Debug\Lab_5_3_5.csproj.CoreCompileInputs.cache
+E:\Sem_5\C# and .NET Framework\Lab\Lab-5\3\Lab_5_3_5\Lab_5_3_5\obj\Debug\Lab_5_3_5.exe
+E:\Sem_5\C# and .NET Framework\Lab\Lab-5\3\Lab_5_3_5\Lab_5_3_5\obj\Debug\Lab_5_3_5.pdb
